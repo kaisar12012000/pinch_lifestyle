@@ -1,0 +1,17 @@
+
+/* loader animation ends  */
+
+.go-top-btn{
+    position:fixed;
+    bottom: 10px;
+    right:10px;
+    background-color: rgba(206, 200, 200, 0.658);
+    color:#e91e63;
+    animation: up-down 2s alternate infinite;
+}
+
+#contact-section{
+    background:url("/images/red-bg.jpg");
+    background-position:center;
+    background-attachment: fixed;
+}
